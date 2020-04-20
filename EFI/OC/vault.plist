@@ -204,6 +204,10 @@
 		<data>
 		HC5p5FFlenemKh09qSQr9GsZjbMq4NHTXdoX9mSrgW0=
 		</data>
+		<key>Resources\Image\AppleRecv.icns</key>
+		<data>
+		B7hfEZiy+0DN5mhJRhO8vRXKn7xj/CYaunv3+aPcw0I=
+		</data>
 		<key>Resources\Image\AppleTM.icns</key>
 		<data>
 		2THGhilwQruqRcy0LW1OqCGr5qVaxlWHQzKb96AtBwQ=
@@ -212,13 +216,29 @@
 		<data>
 		jWnjyC+nftf8rbEBmttXiqobKyBgUNNVTnKTRH2k1vU=
 		</data>
+		<key>Resources\Image\ExtAppleRecv.icns</key>
+		<data>
+		7xLvdstZvJsbpWA0XV68d/Wvf2qj8o21dwlHiORrc38=
+		</data>
+		<key>Resources\Image\ExtAppleTM.icns</key>
+		<data>
+		qNVam12lgS9r1kxUMrTkFNa7IC4qyXEf1XAqyfXRq58=
+		</data>
 		<key>Resources\Image\ExtHardDrive.icns</key>
+		<data>
+		byYuBaNvH/PloBeLM5YmwVa+aN6Pm120uQZSzhF0RYs=
+		</data>
+		<key>Resources\Image\ExtWindows.icns</key>
 		<data>
 		byYuBaNvH/PloBeLM5YmwVa+aN6Pm120uQZSzhF0RYs=
 		</data>
 		<key>Resources\Image\HardDrive.icns</key>
 		<data>
 		ZSydAoxJb6XadZEPkLMSur6b76ouYgo0bedlFcPdGZw=
+		</data>
+		<key>Resources\Image\OldAppleRecv.icns</key>
+		<data>
+		BYIIrqxgEPGXmoah2ZkMmI7rSVwXHwTZRE0u7ZeRAiI=
 		</data>
 		<key>Resources\Image\OldAppleTM.icns</key>
 		<data>
@@ -228,7 +248,19 @@
 		<data>
 		cFrd6p5REd0tw/V/R0QLKCTIwR3FIZWor2hjc0pNQvQ=
 		</data>
+		<key>Resources\Image\OldExtAppleRecv.icns</key>
+		<data>
+		kCAVGiy7XvX5OeArbGsj/YA2tPFO9H5Nu2rsK3mlwaE=
+		</data>
+		<key>Resources\Image\OldExtAppleTM.icns</key>
+		<data>
+		v1i8lfUZhtA0AZzjSYTIm7LALt8ewR3XFtxesyqYpQg=
+		</data>
 		<key>Resources\Image\OldExtHardDrive.icns</key>
+		<data>
+		lx2LM6/BjCD+7JjBZwxTifveSSBuZ0a0vZozYfgPhsM=
+		</data>
+		<key>Resources\Image\OldExtWindows.icns</key>
 		<data>
 		lx2LM6/BjCD+7JjBZwxTifveSSBuZ0a0vZozYfgPhsM=
 		</data>
@@ -244,6 +276,18 @@
 		<data>
 		9rRKs/YfQiHpV0iqtD9yexvZ25YKg5d3OoDD3cepdMA=
 		</data>
+		<key>Resources\Image\OldShell.icns</key>
+		<data>
+		gEcPCfcDTmFjthsXV+0PmwUQJiThDYfLGU8EiMWm1Yo=
+		</data>
+		<key>Resources\Image\OldTool.icns</key>
+		<data>
+		ki1bEsK6JJbF7q3YNKyeoa+zh+UzJiAaQZSZOZWArYs=
+		</data>
+		<key>Resources\Image\OldWindows.icns</key>
+		<data>
+		wNcbRCTnfXw2Baf/ZnCvqoHh1c0O80ez6gQod9GAm/s=
+		</data>
 		<key>Resources\Image\Selected.icns</key>
 		<data>
 		3j7UwdA2B+fxXOpYKLe6onQ0k6QZJpjCim84A7Uho84=
@@ -251,6 +295,18 @@
 		<key>Resources\Image\Selector.icns</key>
 		<data>
 		IfpTJIn1e29emudlPZdU+Tc8kw8V38/qBG0D3gRuVvk=
+		</data>
+		<key>Resources\Image\Shell.icns</key>
+		<data>
+		p5qs2O/dgXshBdR3+inPDaS7dH3chT5CY0G9DVlO1Y8=
+		</data>
+		<key>Resources\Image\Tool.icns</key>
+		<data>
+		P/qbWF8tPEpxYMJaR8zmm0aYw44eX6zYSKQczHYKtuo=
+		</data>
+		<key>Resources\Image\Windows.icns</key>
+		<data>
+		vdSheJ+3sDd3ARNfArhva6RhRFwnuaQz9ZN/X7oh38o=
 		</data>
 		<key>Resources\Label\Apple.l2x</key>
 		<data>
@@ -291,14 +347,6 @@
 		<key>Resources\Label\Other.lbl</key>
 		<data>
 		mqInO/f5n7q8fukEDFzomQlFwJL4QxYRqlcmFoJ/f8o=
-		</data>
-		<key>Resources\Label\Recovery.l2x</key>
-		<data>
-		oHUB9ZadJSVoVyYK4cSYp3AlfyjlmfgcXLPS91KohOE=
-		</data>
-		<key>Resources\Label\Recovery.lbl</key>
-		<data>
-		cDFagNOnpahmshxTIWADXv6KwMijhRgrLzBiXVRaWDQ=
 		</data>
 		<key>Resources\Label\ResetNVRAM.l2x</key>
 		<data>
