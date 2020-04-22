@@ -82,7 +82,7 @@ This ESP contains bootloader configured to run the following macOS, including wh
 - [x] Wi-Fi
 - [x] Bluetooth
 - [x] Touchpad
-- [x] Touchscreen (using [Touch-Base UPPD](https://touch-base.com/drivers))
+- [x] Touchscreen (using [Touch-Base UPDD](https://touch-base.com/drivers))
 - [x] Camera
 - [x] Audio output (internal speaker + external jack)
 - [x] Audio input (external jack)
