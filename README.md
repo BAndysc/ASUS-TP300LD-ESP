@@ -82,6 +82,7 @@ This ESP contains bootloader configured to run the following macOS, including wh
 - [x] Wi-Fi
 - [x] Bluetooth
 - [x] Touchpad
+- [x] Touchscreen (using [Touch-Base UPPD](https://touch-base.com/drivers))
 - [x] Camera
 - [x] Audio output (internal speaker + external jack)
 - [x] Audio input (external jack)
@@ -95,7 +96,6 @@ This ESP contains bootloader configured to run the following macOS, including wh
 
 ### Not Works / Problems on macOS
 - [ ] Discrette Graphic of NVIDIA® GeForce® 820M (NVIDIA Optimus switchable graphic is not supported by hackintosh)
-- [ ] Touchscreen (not works since macOS 10.15; tested work OK on macOS 10.13 and macOS 10.14)
 - [ ] Audio input (internal mic)
 - [ ] Audio output (external jack) distorted after sleep; must select an audio input in the Sound Preference Pane and keep the Sound Preference Pane open (otherwise, it will be distorted back when the Sound Preference Pane window is closed)
 
