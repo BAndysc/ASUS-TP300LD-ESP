@@ -503,7 +503,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Name</key>
-				<string>elementary OS</string>
+				<string>Ubuntu 20.04</string>
 				<key>Path</key>
 				<string>PciRoot(0x0)/Pci(0x1F,0x2)/Sata(0x0, 0xFFFF, 0x0)/HD(1,GPT,1C6AB89C-BCBF-4ABE-8593-618E4D2F5811,0x28,0x64000)/\EFI\ubuntu\grubx64.efi</string>
 			</dict>

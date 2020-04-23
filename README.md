@@ -16,9 +16,9 @@ This repository contains files and folder inside the EFI System Partition (ESP) 
   * [[OS] Windows Information](#os-windows-information)
     * [Windows Version](#windows-version)
     * [Works on Windows](#works-on-windows)
-  * [[OS] elementary OS Information](#os-elementary-os-information)
-    * [elementary OS Version](#elementary-os-version)
-    * [Works on elementary OS](#works-on-elementary-os)
+  * [[OS] Ubuntu Information](#os-ubuntu-information)
+    * [Ubuntu Version](#ubuntu-version)
+    * [Works on Ubuntu](#works-on-ubuntu)
   * [Authors](#authors)
   * [License](#license)
 
@@ -132,14 +132,14 @@ This ESP contains bootloader configured to run the following Windows.
 ### Works on Windows
 All components are obviously working okay.
 
-## [OS] elementary OS Information
-This ESP contains bootloader configured to run the following elementary OS.
+## [OS] Ubuntu Information
+This ESP contains bootloader configured to run the following Ubuntu.
 
-### elementary OS Version
-- **OS Version**: elementary OS 5.1 Hera
-- **Installer**: Directly downloaded from elementary OS website 
+### Ubuntu Version
+- **OS Version**: Ubuntu 20.04 LTS (Focal Fossa)
+- **Installer**: Directly downloaded from Ubuntu website 
 
-### Works on elementary OS
+### Works on Ubuntu
 All components are obviously working okay.
 
 ## Authors
