@@ -47,7 +47,7 @@ This repository contains files and folder inside the EFI System Partition (ESP) 
 ## Bootloader Information
 This ESP contains these bootloaders.
 
-- **[PRIMARY BOOTLOADER]** [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.5.7
+- **[PRIMARY BOOTLOADER]** [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.5.8
 - [Clover](https://github.com/CloverHackyColor/CloverBootloader) v5.0 r5108
 - Windows Boot Manager
 
@@ -58,10 +58,8 @@ These are the UEFI drivers used by OpenCore and Clover.
 
 #### OpenCore
 - HfsPlus
-- ApfsDriverLoader
 - OpenRuntime
 - OpenCanopy
-- AudioDxe
 
 #### Clover
 - HfsPlus
