@@ -48,7 +48,7 @@ This repository contains files and folder inside the EFI System Partition (ESP) 
 This ESP contains these bootloaders.
 
 - **[PRIMARY BOOTLOADER]** [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.5.8
-- [Clover](https://github.com/CloverHackyColor/CloverBootloader) v5.0 r5108
+- [Clover](https://github.com/CloverHackyColor/CloverBootloader) v5.0 r5115
 - Windows Boot Manager
 
 The boot mode used is **UEFI** with **CSM disabled** on **GUID Partition Table (GPT)** storage scheme.
