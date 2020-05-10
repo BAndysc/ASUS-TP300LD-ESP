@@ -35,12 +35,13 @@ This repository contains files and folder inside the EFI System Partition (ESP) 
 - **Touchscreen**: Atmel Touchscreen USB Interface
 - **Screen Size**: 13.1 inches
 - **Native Display Resolution**: 1366x768 
-- **Ports**: 
-  - 2 x USB 3.0
-  - 1 x USB 2.0
+- **Input/Output (I/O)**: 
+  - 2 x USB 3.0 (Type A)
+  - 1 x USB 2.0 (Type A)
   - 1 x HDMI out
-  - 1 x power jack
-  - 1 x combo audio jack
+  - 1 x AC adapter plug
+  - 1 x Combo audio jack
+  - 1 x Volume up/down
 - **Battery**: 3 cells polymer battery, 50 watthours
 - **BIOS Version**: TP300LD.300 (25 June 2019)
 
