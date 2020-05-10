@@ -50,6 +50,7 @@ This ESP contains these bootloaders.
 - **[PRIMARY BOOTLOADER]** [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.5.8
 - [Clover](https://github.com/CloverHackyColor/CloverBootloader) v5.0 r5115
 - Windows Boot Manager
+- Grub2
 
 The boot mode used is **UEFI** with **CSM disabled** on **GUID Partition Table (GPT)** storage scheme.
 
@@ -144,4 +145,4 @@ All components are obviously working okay.
 - **Danang Galuh Tegar Prasetyo** - [danang-id](https://github.com/danang-id)
 
 ## License
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the BSD 3-Clause License - see the [LICENSE.md](LICENSE.md) file for details.
