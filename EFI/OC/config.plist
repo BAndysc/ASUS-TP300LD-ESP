@@ -70,7 +70,7 @@
 			<key>ProtectUefiServices</key>
 			<false/>
 			<key>ProvideCustomSlide</key>
-			<false/>
+			<true/>
 			<key>RebuildAppleMemoryMap</key>
 			<true/>
 			<key>SetupVirtualMap</key>
@@ -78,7 +78,7 @@
 			<key>SignalAppleOS</key>
 			<false/>
 			<key>SyncRuntimePermissions</key>
-			<false/>
+			<true/>
 		</dict>
 	</dict>
 	<key>DeviceProperties</key>
@@ -126,7 +126,7 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>VirtualSMC.kext/Contents/PlugIns/AsusSMC.kext</string>
+				<string>AsusSMC.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
@@ -142,7 +142,7 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>VirtualSMC.kext/Contents/PlugIns/SMCProcessor.kext</string>
+				<string>SMCProcessor.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
@@ -158,23 +158,7 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>VirtualSMC.kext/Contents/PlugIns/SMCLightSensor.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/SMCLightSensor</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>VirtualSMC.kext/Contents/PlugIns/SMCSuperIO.kext</string>
+				<string>SMCSuperIO.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
@@ -190,13 +174,61 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>VirtualSMC.kext/Contents/PlugIns/SMCBatteryManager.kext</string>
+				<string>SMCBatteryManager.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCBatteryManager</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>BundlePath</key>
+				<string>SMCLightSensor.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/SMCLightSensor</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>BundlePath</key>
+				<string>WhateverGreen.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/WhateverGreen</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>BundlePath</key>
+				<string>AppleALC.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/AppleALC</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -238,22 +270,6 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>ApplePS2SmartTouchPad.kext/Contents/PlugIns/ApplePS2Keyboard.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/ApplePS2Keyboard</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
 				<string>ApplePS2SmartTouchPad.kext/Contents/PlugIns/ApplePS2Controller.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -270,29 +286,13 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>WhateverGreen.kext</string>
+				<string>ApplePS2SmartTouchPad.kext/Contents/PlugIns/ApplePS2Keyboard.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/WhateverGreen</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>AppleALC.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/AppleALC</string>
+				<string>Contents/MacOS/ApplePS2Keyboard</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -476,7 +476,7 @@
 			<key>AppleDebug</key>
 			<false/>
 			<key>DisableWatchDog</key>
-			<false/>
+			<true/>
 			<key>DisplayDelay</key>
 			<integer>0</integer>
 			<key>DisplayLevel</key>
@@ -485,36 +485,7 @@
 			<integer>19</integer>
 		</dict>
 		<key>Entries</key>
-		<array>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Auxiliary</key>
-				<false/>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Name</key>
-				<string>Windows 10</string>
-				<key>Path</key>
-				<string>PciRoot(0x0)/Pci(0x1F,0x2)/Sata(0x0, 0xFFFF, 0x0)/HD(1,GPT,1C6AB89C-BCBF-4ABE-8593-618E4D2F5811,0x28,0x64000)/\EFI\Microsoft\Boot\bootmgfw.efi</string>
-			</dict>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Auxiliary</key>
-				<false/>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Name</key>
-				<string>Ubuntu 20.04</string>
-				<key>Path</key>
-				<string>PciRoot(0x0)/Pci(0x1F,0x2)/Sata(0x0, 0xFFFF, 0x0)/HD(1,GPT,1C6AB89C-BCBF-4ABE-8593-618E4D2F5811,0x28,0x64000)/\EFI\ubuntu\grubx64.efi</string>
-			</dict>
-		</array>
+		<array/>
 		<key>Security</key>
 		<dict>
 			<key>AllowNvramReset</key>
@@ -522,7 +493,7 @@
 			<key>AllowSetDefault</key>
 			<true/>
 			<key>AuthRestart</key>
-			<true/>
+			<false/>
 			<key>BootProtect</key>
 			<string>Bootstrap</string>
 			<key>ExposeSensitiveData</key>
@@ -530,7 +501,7 @@
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
 			<key>ScanPolicy</key>
-			<integer>0</integer>
+			<integer>16719619</integer>
 			<key>Vault</key>
 			<string>Secure</string>
 		</dict>
@@ -544,53 +515,11 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
-				<key>Name</key>
-				<string>Verify MSR Lock</string>
-				<key>Path</key>
-				<string>VerifyMsrE2.efi</string>
-			</dict>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Auxiliary</key>
-				<true/>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<false/>
-				<key>Name</key>
-				<string>HDA Codec Dump</string>
-				<key>Path</key>
-				<string>HdaCodecDump.efi</string>
-			</dict>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Auxiliary</key>
-				<true/>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
 				<true/>
 				<key>Name</key>
 				<string>UEFI Shell</string>
 				<key>Path</key>
 				<string>OpenShell.efi</string>
-			</dict>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Auxiliary</key>
-				<true/>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<false/>
-				<key>Name</key>
-				<string>Test GraphicsOutput</string>
-				<key>Path</key>
-				<string>GopStop.efi</string>
 			</dict>
 		</array>
 	</dict>
@@ -626,41 +555,16 @@
 	<dict>
 		<key>Automatic</key>
 		<true/>
-		<key>DataHub</key>
-		<dict>
-			<key>SystemProductName</key>
-			<string>MacBookPro11,2</string>
-			<key>SystemSerialNumber</key>
-			<string>C02LWXYTG86R</string>
-			<key>SystemUUID</key>
-			<string>B6EB21D5-8AF6-47FF-9B28-2CDC073A1C7A</string>
-		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
-			<true/>
+			<false/>
 			<key>MLB</key>
 			<string>C023524054NFJQWJA</string>
 			<key>ROM</key>
 			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
-			<false/>
-			<key>SystemProductName</key>
-			<string>MacBookPro11,2</string>
-			<key>SystemSerialNumber</key>
-			<string>C02LWXYTG86R</string>
-			<key>SystemUUID</key>
-			<string>B6EB21D5-8AF6-47FF-9B28-2CDC073A1C7A</string>
-		</dict>
-		<key>PlatformNVRAM</key>
-		<dict>
-			<key>MLB</key>
-			<string>C023524054NFJQWJA</string>
-			<key>ROM</key>
-			<data>ESIzAAAA</data>
-		</dict>
-		<key>SMBIOS</key>
-		<dict>
+			<true/>
 			<key>SystemProductName</key>
 			<string>MacBookPro11,2</string>
 			<key>SystemSerialNumber</key>
@@ -684,7 +588,7 @@
 			<key>EnableJumpstart</key>
 			<true/>
 			<key>HideVerbose</key>
-			<false/>
+			<true/>
 			<key>JumpstartHotPlug</key>
 			<false/>
 			<key>MinDate</key>
@@ -734,7 +638,7 @@
 			<key>PointerSupport</key>
 			<false/>
 			<key>PointerSupportMode</key>
-			<string>ASUS</string>
+			<string></string>
 			<key>TimerResolution</key>
 			<integer>50000</integer>
 		</dict>
@@ -780,7 +684,7 @@
 			<key>AppleRtcRam</key>
 			<false/>
 			<key>AppleSmcIo</key>
-			<true/>
+			<false/>
 			<key>AppleUserInterfaceTheme</key>
 			<false/>
 			<key>DataHub</key>
@@ -788,13 +692,13 @@
 			<key>DeviceProperties</key>
 			<false/>
 			<key>FirmwareVolume</key>
-			<true/>
+			<false/>
 			<key>HashServices</key>
-			<true/>
+			<false/>
 			<key>OSInfo</key>
 			<false/>
 			<key>UnicodeCollation</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>Quirks</key>
 		<dict>

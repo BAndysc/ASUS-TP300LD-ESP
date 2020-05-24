@@ -108,6 +108,18 @@
 		<data>
 		Ry1P/6jJTQVueEe+VCdc60UQdSFoglGUdMghXZBUTg8=
 		</data>
+		<key>Kexts\AsusSMC.kext\Contents\Info.plist</key>
+		<data>
+		I0sCyu/oA2mjBxiwqraxNI2tgGwU6PDVxtsdgJxml9M=
+		</data>
+		<key>Kexts\AsusSMC.kext\Contents\MacOS\AsusSMC</key>
+		<data>
+		+OgvibnZV/ahHJF5EwkH2oCc97/u04N/mXLlHqnwjko=
+		</data>
+		<key>Kexts\AsusSMC.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
+		</data>
 		<key>Kexts\BrcmBluetoothInjector.kext\Contents\Info.plist</key>
 		<data>
 		Kj4+swEYjBu/4hkYRzbQB//tlbYwjGXhaJXFhH1ojnw=
@@ -156,6 +168,38 @@
 		<data>
 		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 		</data>
+		<key>Kexts\SMCBatteryManager.kext\Contents\Info.plist</key>
+		<data>
+		l84qPyMThEZgGaKgS5WHlDeVg+h/pmYMA0iL5cRs4rY=
+		</data>
+		<key>Kexts\SMCBatteryManager.kext\Contents\MacOS\SMCBatteryManager</key>
+		<data>
+		WiSbVkZNvSLA0/78j/hK5vc7zIjGm5T1tt6hmdmmMcU=
+		</data>
+		<key>Kexts\SMCLightSensor.kext\Contents\Info.plist</key>
+		<data>
+		iUWIX/dxMwa1wTwiOW2sxmiPPUYHJzFij2MlfzsqoV4=
+		</data>
+		<key>Kexts\SMCLightSensor.kext\Contents\MacOS\SMCLightSensor</key>
+		<data>
+		6PKEn7WGhvVfiDEvp75ocbDATTyul7/7Gsz3VhwEmJE=
+		</data>
+		<key>Kexts\SMCProcessor.kext\Contents\Info.plist</key>
+		<data>
+		lEyBd8q/ea9LMzCT8VXy9a426O6a+HFD8YHSKPIZ4Sw=
+		</data>
+		<key>Kexts\SMCProcessor.kext\Contents\MacOS\SMCProcessor</key>
+		<data>
+		6mW6kiQ2M4E/uaMLJZ4UOSDCdSf0ncNOY9Na0cb3l4A=
+		</data>
+		<key>Kexts\SMCSuperIO.kext\Contents\Info.plist</key>
+		<data>
+		2pz9lQFPqMDSJvm2Hh1D/kKyl1T8MMpHv5b9Nj9DByU=
+		</data>
+		<key>Kexts\SMCSuperIO.kext\Contents\MacOS\SMCSuperIO</key>
+		<data>
+		+dZ/yOIEnfW9XfO6kfQKwct1Vcn55rm3hzwINbsNKHc=
+		</data>
 		<key>Kexts\USBPorts.kext\Contents\Info.plist</key>
 		<data>
 		VN2urtS+ExwAxEWA8/P0FjaoxqoBlO6RWPveqHQ6XS8=
@@ -167,50 +211,6 @@
 		<key>Kexts\VirtualSMC.kext\Contents\MacOS\VirtualSMC</key>
 		<data>
 		y4hgNz+Rd/YK5RroXtkDVSVV0cq1+Nxkj5AcsidYj3E=
-		</data>
-		<key>Kexts\VirtualSMC.kext\Contents\PlugIns\AsusSMC.kext\Contents\Info.plist</key>
-		<data>
-		I0sCyu/oA2mjBxiwqraxNI2tgGwU6PDVxtsdgJxml9M=
-		</data>
-		<key>Kexts\VirtualSMC.kext\Contents\PlugIns\AsusSMC.kext\Contents\MacOS\AsusSMC</key>
-		<data>
-		+OgvibnZV/ahHJF5EwkH2oCc97/u04N/mXLlHqnwjko=
-		</data>
-		<key>Kexts\VirtualSMC.kext\Contents\PlugIns\AsusSMC.kext\Contents\_CodeSignature\CodeResources</key>
-		<data>
-		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
-		</data>
-		<key>Kexts\VirtualSMC.kext\Contents\PlugIns\SMCBatteryManager.kext\Contents\Info.plist</key>
-		<data>
-		l84qPyMThEZgGaKgS5WHlDeVg+h/pmYMA0iL5cRs4rY=
-		</data>
-		<key>Kexts\VirtualSMC.kext\Contents\PlugIns\SMCBatteryManager.kext\Contents\MacOS\SMCBatteryManager</key>
-		<data>
-		WiSbVkZNvSLA0/78j/hK5vc7zIjGm5T1tt6hmdmmMcU=
-		</data>
-		<key>Kexts\VirtualSMC.kext\Contents\PlugIns\SMCLightSensor.kext\Contents\Info.plist</key>
-		<data>
-		iUWIX/dxMwa1wTwiOW2sxmiPPUYHJzFij2MlfzsqoV4=
-		</data>
-		<key>Kexts\VirtualSMC.kext\Contents\PlugIns\SMCLightSensor.kext\Contents\MacOS\SMCLightSensor</key>
-		<data>
-		6PKEn7WGhvVfiDEvp75ocbDATTyul7/7Gsz3VhwEmJE=
-		</data>
-		<key>Kexts\VirtualSMC.kext\Contents\PlugIns\SMCProcessor.kext\Contents\Info.plist</key>
-		<data>
-		lEyBd8q/ea9LMzCT8VXy9a426O6a+HFD8YHSKPIZ4Sw=
-		</data>
-		<key>Kexts\VirtualSMC.kext\Contents\PlugIns\SMCProcessor.kext\Contents\MacOS\SMCProcessor</key>
-		<data>
-		6mW6kiQ2M4E/uaMLJZ4UOSDCdSf0ncNOY9Na0cb3l4A=
-		</data>
-		<key>Kexts\VirtualSMC.kext\Contents\PlugIns\SMCSuperIO.kext\Contents\Info.plist</key>
-		<data>
-		2pz9lQFPqMDSJvm2Hh1D/kKyl1T8MMpHv5b9Nj9DByU=
-		</data>
-		<key>Kexts\VirtualSMC.kext\Contents\PlugIns\SMCSuperIO.kext\Contents\MacOS\SMCSuperIO</key>
-		<data>
-		+dZ/yOIEnfW9XfO6kfQKwct1Vcn55rm3hzwINbsNKHc=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\Info.plist</key>
 		<data>
@@ -452,9 +452,13 @@
 		<data>
 		A8eEs4CW3KmegnJl5oqI/pwZp6aaM5mlYm930ZSMLwM=
 		</data>
+		<key>Tools\codec_dump.txt</key>
+		<data>
+		5Hcmaa1UUC9kX+7Y+nT1LsH6fBsR3VCZS9yJ2MtjbSk=
+		</data>
 		<key>config.plist</key>
 		<data>
-		knr7uFABAnLs0qjLyVyun9/MEO2Ia4uT22aWLIInjoM=
+		U49rDHan7cCoM7SZwVX20BswFUyakJ7AaOfrWBW6J+4=
 		</data>
 		<key>sign.command</key>
 		<data>
