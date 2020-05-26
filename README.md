@@ -76,7 +76,7 @@ These are the UEFI drivers used by OpenCore and Clover.
 This ESP contains bootloader configured to run the following macOS, including what are works and what are not works.
 
 ### macOS Version
-- **OS Version**: macOS Catalina 10.15.4 (19E287)
+- **OS Version**: macOS Mojave 10.14.6 (18G4032) + macOS Catalina 10.15.4 (19E287)
 - **Installer**: Retail from the App Store, created using createinstallmedia
 
 ### Works on macOS
