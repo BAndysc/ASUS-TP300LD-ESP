@@ -27,7 +27,9 @@ This repository contains files and folder inside the EFI System Partition (ESP) 
 - **Chipset**: Intel® 8 Series Chipset
 - **Integrated Graphic**: Intel® HD Graphics 4400 
 - **Discrette Graphic**: NVIDIA® GeForce® 820M with 2GB DDR3 VRAM
-- **Memory**: 1 x Micron 4GB DDR3L 1600Mhz SDRAM
+- **Memory**: 
+  - 1 x on-board Micron 4 GB DDR3L 1600Mhz SDRAM 
+  - 1 x Vgen Secure 4 GB DDR3L 1600Mhz SDRAM
 - **Storage**: 1 x Adata SSD 250GB
 - **Audio**: Realtek ALC233
 - **Wi-Fi**: Broadcom BCM94352HMB (Bluetooth Combo)
