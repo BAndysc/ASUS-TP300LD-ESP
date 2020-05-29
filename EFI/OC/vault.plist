@@ -132,6 +132,14 @@
 		<data>
 		HB8ZlKpwkiyqk68tB1JrHXEh12hX05vKGFvmwi1wAOo=
 		</data>
+		<key>Kexts\BrcmPatchRAM2.kext\Contents\Info.plist</key>
+		<data>
+		4lJ7/phnB9sYHT1EIWmS5sM0VXAz+BQUkvZE+g0lA30=
+		</data>
+		<key>Kexts\BrcmPatchRAM2.kext\Contents\MacOS\BrcmPatchRAM2</key>
+		<data>
+		uJ4kZ6bCyTuurA43OOLbIZsPDq5SAx0YUlEHMVsezxM=
+		</data>
 		<key>Kexts\BrcmPatchRAM3.kext\Contents\Info.plist</key>
 		<data>
 		5NJLhHXoWwMKnFYU8V3sz1LI7ypOvoP5NjMjjn/MMb4=
@@ -458,7 +466,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		U49rDHan7cCoM7SZwVX20BswFUyakJ7AaOfrWBW6J+4=
+		fmhhE2AcECxRMijxsZUAS+AfVqY0fKEe65mhTTFvCg4=
 		</data>
 		<key>sign.command</key>
 		<data>
