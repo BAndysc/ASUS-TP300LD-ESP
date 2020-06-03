@@ -10,15 +10,19 @@
 		</data>
 		<key>ACPI\SSDT-TP300LD.aml</key>
 		<data>
-		36po0Jd0MZ42cJ8OUAterQPAWV7ySv2kCP++fVJXQ8g=
+		TNpbg0IFrlei+NQW5qfLs4O5RXs6lZtDyQTjUtidDNg=
 		</data>
 		<key>Bootstrap\Bootstrap.efi</key>
 		<data>
-		AlnWzl/RyOmy+vc1NLNd4HbqCz0YKUvScKGk5HKlu7k=
+		Ut1P7VgbTy7dR9Z5J81xwy04gSguKKas139AIgJ8d6Q=
 		</data>
 		<key>Drivers\AudioDxe.efi</key>
 		<data>
-		gPd2B6q20V1r2i1vTEiH6o7vjOnbkV9TQzCjTKX1wdY=
+		NZ5RY+/DT5moXMecw0kF6mrvQPxzRZosxsgl17X4fb8=
+		</data>
+		<key>Drivers\CrScreenshotDxe.efi</key>
+		<data>
+		RDwehDd3itoMfU948yiGGwIqk7xF/fx9OMNFvhke3+U=
 		</data>
 		<key>Drivers\ExFatDxe.efi</key>
 		<data>
@@ -30,7 +34,7 @@
 		</data>
 		<key>Drivers\HiiDatabase.efi</key>
 		<data>
-		APibeVdWyZs32CRb0CleGDwI1QLZ6eKB90T7KOsXK2E=
+		4RPAiMiaBtR1BhZgnqO+GiXRcjJMOd6S2qNeWVdAZCU=
 		</data>
 		<key>Drivers\Ntfs.efi</key>
 		<data>
@@ -38,35 +42,39 @@
 		</data>
 		<key>Drivers\NvmExpressDxe.efi</key>
 		<data>
-		E0d1zDzCalpa11dbnITUhoNGfeGEiw5PEPa00MoFYjM=
+		nT1PG9hUdMPWhbF4wiQ1SR/9AjqIs3dtIB9kx368KCo=
 		</data>
 		<key>Drivers\OpenCanopy.efi</key>
 		<data>
-		g1CMD8B51WGNS+7fpHB5k5skZ0JE0fb2qrWpM+l/j/k=
+		AAMrsjETle6d2OHWxUw+xEZg3apcs7HkuydlxFCJ06E=
 		</data>
 		<key>Drivers\OpenRuntime.efi</key>
 		<data>
-		ERaSc02vfBJceT5WdQhuN+u8tsVF8XGopluOL5jn7To=
+		H4NN7AQZOTF1SZgeSIDVJ8h7cOnyYGAQVGfRoF9iYr8=
 		</data>
 		<key>Drivers\OpenUsbKbDxe.efi</key>
 		<data>
-		UNAF90j6eEKYygQOTO74xLzRPHruQbYRoeSYzUc4f2Y=
+		x9ycE8ZymtgnG3YZjeB8XC9kt7F+U00U1Cq0yqNOY6I=
+		</data>
+		<key>Drivers\PartitionDxe.efi</key>
+		<data>
+		TC5wFSFmj4Fb8d1uXEG8Isxputokp21mwLGx4DDu+DI=
 		</data>
 		<key>Drivers\Ps2KeyboardDxe.efi</key>
 		<data>
-		z/ieE9BAnWHQWfOlgmRw2ey6d1znA2aVObQz36e49QE=
+		tVADI7g/4xrBEJjVPtoqMjWRaSxnBIvS/HZME80ev/w=
 		</data>
 		<key>Drivers\Ps2MouseDxe.efi</key>
 		<data>
-		4IjgHM2flmNc3G00Co0lIwGDcyQYIriQbaD/U9in51I=
+		MmLFTezGD/GDUHJ2sTBNfMI7036Y45w7x2Sn27v27qU=
 		</data>
 		<key>Drivers\UsbMouseDxe.efi</key>
 		<data>
-		izaN50sSI6A2ACTVs0frJe0llY3sZ5VN+gP0La4EieU=
+		zzyWE2kiqcFQ317ZA0lTWRBWhhrVwg+PXsgmHQ5lUoI=
 		</data>
 		<key>Drivers\XhciDxe.efi</key>
 		<data>
-		n0chWyxjJJg9sW0E1+qYMEqcX460FKdYhGsH27Io9zA=
+		SthZy0nlvX4vCQyID97ssCD4zFj8mrwy91Xws3zIbbM=
 		</data>
 		<key>Kexts\AirportBrcmFixup.kext\Contents\Info.plist</key>
 		<data>
@@ -78,11 +86,11 @@
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\Info.plist</key>
 		<data>
-		XyUTvdpTJPtlPj8pWet+uEvidC5SawUO4ZIlwapOaVo=
+		eRFJzEx9+4v2Ru8wLSfhoCy17e+lrF5pXZuXp8XGdOs=
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\MacOS\AppleALC</key>
 		<data>
-		OGkz+57DxdBSp8CDbwmS/dfqoeMv8NLKuoTfn2fhPmM=
+		Lku+KiwKMttJW50paTU35s61LcL0kPl8zDSR1iOTtcA=
 		</data>
 		<key>Kexts\ApplePS2SmartTouchPad.kext\Contents\Info.plist</key>
 		<data>
@@ -158,11 +166,11 @@
 		</data>
 		<key>Kexts\Lilu.kext\Contents\Info.plist</key>
 		<data>
-		tae3aMKDgp9kU4JnX1ngzxLnyUgLQc0TRrBXrcgoCxk=
+		O4bGJIO6wqmvJBI99Swi7OPoo3EU6ofIPRXXZCs3fyM=
 		</data>
 		<key>Kexts\Lilu.kext\Contents\MacOS\Lilu</key>
 		<data>
-		VvhTcFjPLOgPeYRVLJqV9mJ8kSJIT4ESzSGChJDGIyU=
+		EksKhEosOMprb7NEZTEMOb72zicmg3jq2Uub2hpzBYA=
 		</data>
 		<key>Kexts\NoTouchID.kext\Contents\Info.plist</key>
 		<data>
@@ -182,7 +190,7 @@
 		</data>
 		<key>Kexts\SMCBatteryManager.kext\Contents\MacOS\SMCBatteryManager</key>
 		<data>
-		WiSbVkZNvSLA0/78j/hK5vc7zIjGm5T1tt6hmdmmMcU=
+		kDcq6NL1IKt4W8BkYJVobDsSspWiA6v4J3goVkXzSEA=
 		</data>
 		<key>Kexts\SMCLightSensor.kext\Contents\Info.plist</key>
 		<data>
@@ -190,23 +198,23 @@
 		</data>
 		<key>Kexts\SMCLightSensor.kext\Contents\MacOS\SMCLightSensor</key>
 		<data>
-		6PKEn7WGhvVfiDEvp75ocbDATTyul7/7Gsz3VhwEmJE=
+		yBvgF7TaIVY18uk+YQExIivSHeHb8wD2af04zf04HN0=
 		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\Info.plist</key>
 		<data>
-		lEyBd8q/ea9LMzCT8VXy9a426O6a+HFD8YHSKPIZ4Sw=
+		yDDZJg30pOSX44Ako4qXftCh0Cfr6g6aM9EnT34Vk6Y=
 		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\MacOS\SMCProcessor</key>
 		<data>
-		6mW6kiQ2M4E/uaMLJZ4UOSDCdSf0ncNOY9Na0cb3l4A=
+		4/28buE8avBCVjTZnTUNf5uuor+0W5bSKsA/rQ/q1jE=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\Info.plist</key>
 		<data>
-		2pz9lQFPqMDSJvm2Hh1D/kKyl1T8MMpHv5b9Nj9DByU=
+		qkJWSv8T2vWRaleoB+K4SbHGveT4oSBHAd2GL/TxbSI=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\MacOS\SMCSuperIO</key>
 		<data>
-		+dZ/yOIEnfW9XfO6kfQKwct1Vcn55rm3hzwINbsNKHc=
+		tQDC4O7YaQSUbYhpAjwfPKmCKQ1RIqPX+0fHOc+ZcuI=
 		</data>
 		<key>Kexts\USBPorts.kext\Contents\Info.plist</key>
 		<data>
@@ -214,27 +222,35 @@
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\Info.plist</key>
 		<data>
-		f0GF/0IWtPRh1u4q8OoP3oEqqugRveYKbluMdqzgS3o=
+		6RxlUjckr+5n+IwiexTzZV0U2CrtIyJamVVTQa3sNTI=
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\MacOS\VirtualSMC</key>
 		<data>
-		y4hgNz+Rd/YK5RroXtkDVSVV0cq1+Nxkj5AcsidYj3E=
+		ndDqSQngMIz0k2AsSpSc6RtOazHqwDEXxgI+ntxwJmE=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\Info.plist</key>
 		<data>
-		fnfVXpImPLtbIUjcTYFKzJQYCOfMOynqWoVtFGcgZIo=
+		5kGMQUiNHDNCeknHx648rHrQcMQJJD7crEZJ6yCr37M=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\MacOS\WhateverGreen</key>
 		<data>
-		F+zW8FHOy41oLbbdHocPZhUFP8uo9b55gWWbOJnZUxg=
+		pDgstVpBs+59Rllpg7ZCq0nNutVtUfZPb0mCcYW1ik4=
 		</data>
-		<key>Resources\Font\Font.bin</key>
+		<key>Resources\Font\Font_1x.bin</key>
 		<data>
-		jm/bvqJLIlw09ppx0Ge2z20J1Ni06v9BGgoNRqcnWmU=
+		UbpyosL4nwwA6nHT+hU6EOZcObI/n1sZwA/b5snHQxU=
 		</data>
-		<key>Resources\Font\Font.png</key>
+		<key>Resources\Font\Font_1x.png</key>
 		<data>
-		HC5p5FFlenemKh09qSQr9GsZjbMq4NHTXdoX9mSrgW0=
+		cCpjm973z5PWFF0Ir3qAksRwfAjPujdpJT8cC7GbG5Q=
+		</data>
+		<key>Resources\Font\Font_2x.bin</key>
+		<data>
+		s2rSstzd4UZ1lFLSUUt/eAC5xomPooRWaWXWn2EbsYg=
+		</data>
+		<key>Resources\Font\Font_2x.png</key>
+		<data>
+		T7Rc18QRoPovyg6kwfwqATD4rwvNxxJ07ID7sZ8UrE4=
 		</data>
 		<key>Resources\Image\AppleRecv.icns</key>
 		<data>
@@ -257,10 +273,6 @@
 		qNVam12lgS9r1kxUMrTkFNa7IC4qyXEf1XAqyfXRq58=
 		</data>
 		<key>Resources\Image\ExtHardDrive.icns</key>
-		<data>
-		byYuBaNvH/PloBeLM5YmwVa+aN6Pm120uQZSzhF0RYs=
-		</data>
-		<key>Resources\Image\ExtWindows.icns</key>
 		<data>
 		byYuBaNvH/PloBeLM5YmwVa+aN6Pm120uQZSzhF0RYs=
 		</data>
@@ -289,10 +301,6 @@
 		v1i8lfUZhtA0AZzjSYTIm7LALt8ewR3XFtxesyqYpQg=
 		</data>
 		<key>Resources\Image\OldExtHardDrive.icns</key>
-		<data>
-		lx2LM6/BjCD+7JjBZwxTifveSSBuZ0a0vZozYfgPhsM=
-		</data>
-		<key>Resources\Image\OldExtWindows.icns</key>
 		<data>
 		lx2LM6/BjCD+7JjBZwxTifveSSBuZ0a0vZozYfgPhsM=
 		</data>
@@ -414,51 +422,51 @@
 		</data>
 		<key>Tools\BootKicker.efi</key>
 		<data>
-		mMJb1aacOwpmRKLzt9CU2sG/MEUjvkmUeMayCjjSydg=
+		jYIr5TMZ/zflaIrUzQZAwdUxI93g1qkOOCAGnKup5pM=
 		</data>
 		<key>Tools\ChipTune.efi</key>
 		<data>
-		ht/kJ7NybCW1o/r86mzjywFDUQUvSC5/M3/5hHAmYYk=
+		AjQSL8BobIc9aQMXvTM1RQYjk8qupXHXh7UvmvKhdiA=
 		</data>
 		<key>Tools\CleanNvram.efi</key>
 		<data>
-		Wb2UWFeB8fOHio7T7/A/O5bh2YBsrpS7lX+yHRnhoX0=
+		/wKFTM0RUBNkLanilkX84JSQ/YjW+UfZxcEzPSzqPs8=
 		</data>
 		<key>Tools\GopStop.efi</key>
 		<data>
-		XwbfoaaLAdRpFQHwtcNHQW/mKoq7unk0RGka9Gz6UAw=
+		xx5tXWspJYa1M1ayAbmOFvsdPTj8BV6wQ2LcV+GPnso=
 		</data>
 		<key>Tools\HdaCodecDump.efi</key>
 		<data>
-		JK0AdCIGB1+/kZJR2nFvplaVIQ+SVZXxxt+uLwYRoqg=
+		NZPEK6i9iD+/1vOnVYDv3BhcpWhmDE1kyYOpHPvYHqI=
 		</data>
 		<key>Tools\KeyTester.efi</key>
 		<data>
-		YkwM2QzXbE5nWAAaUSfzk5+FphLDNkTUwLDuZE5JIPM=
+		nxvX7U0rlYkCuw6ScViVZHDKYmQcAyKJkt6KkOCOrtE=
 		</data>
 		<key>Tools\MmapDump.efi</key>
 		<data>
-		EOtDbDBuM2pZ0bCpgj425lzmWL1d4b8YOx2KkQ6SCUc=
+		68Ni4/cRlPlYnkih0QBKqD20f3kZRmQf6rhMg36fsHM=
 		</data>
 		<key>Tools\OpenControl.efi</key>
 		<data>
-		eJvGQ6vLBxuxoBwotdBV67XeAi330NrDgK/KdS0u6rE=
+		RmY0StfVLmT4CtU9Q9i0Bdk/YOejMr2fQiDMh8oemps=
 		</data>
 		<key>Tools\OpenShell.efi</key>
 		<data>
-		BUDugv74hPfjoVpWG6GqXKFTpB2zyR788ZT+kmnZSA8=
+		7OHNxdcgg9G9f4JHO1zNTUZAD4OZRLp+H4fFVL7reas=
 		</data>
 		<key>Tools\ResetSystem.efi</key>
 		<data>
-		RqWvKPFA57ESA/fD+FMKmIpojV28ujWHw4mqcniiYiA=
+		iPr8Lfn2kQmGoXTNiaoSTJH+yY9298sBb2WuG+ojV9o=
 		</data>
 		<key>Tools\RtcRw.efi</key>
 		<data>
-		D+HdpI2DBk4aejf3h96BJkW8DxZkCyJUtmF1/Ppohuc=
+		lbgNsbF26WoCBrEkroPq/8Io1HaWculi9YxjoOlIDvM=
 		</data>
 		<key>Tools\VerifyMsrE2.efi</key>
 		<data>
-		A8eEs4CW3KmegnJl5oqI/pwZp6aaM5mlYm930ZSMLwM=
+		noKqYPlmWWjZmTn7L+h7Joax/wtnenB/cEEMO/lmyN0=
 		</data>
 		<key>Tools\codec_dump.txt</key>
 		<data>
@@ -466,7 +474,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		EcrZjsr+WQM9xO/foq/FfZfbWg6xQl+eLy/BNxlV9J4=
+		Zv2tdnBviATX50i1M/JMCuOjrhYZNNjQ5NnPqYgBxoI=
 		</data>
 		<key>sign.command</key>
 		<data>
