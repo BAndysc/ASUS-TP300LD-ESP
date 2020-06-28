@@ -78,19 +78,27 @@
 		</data>
 		<key>Kexts\AirportBrcmFixup.kext\Contents\Info.plist</key>
 		<data>
-		yEJKw6azgW1Qm/76NUiZ5xacXQ71M2BKpxTD3OmQw/A=
+		DY4GTgd8F/K5NTEEo6Pf6mni3zIkpZwnyQGlzkb6tZg=
 		</data>
 		<key>Kexts\AirportBrcmFixup.kext\Contents\MacOS\AirportBrcmFixup</key>
 		<data>
-		68Va+FQYQS7nQGEsk9srWuri2l3w3DL92WbviAZudIA=
+		bJ7xapaupPJ4Mm5srGfITQNF8WF6oLR+JPU1cwQ3DJA=
+		</data>
+		<key>Kexts\AirportBrcmFixup.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\Info.plist</key>
 		<data>
-		eRFJzEx9+4v2Ru8wLSfhoCy17e+lrF5pXZuXp8XGdOs=
+		qR5X/3DO6SCZvRoxO6lyFZDe5ENm0cTv4psFMKIUWpw=
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\MacOS\AppleALC</key>
 		<data>
-		Lku+KiwKMttJW50paTU35s61LcL0kPl8zDSR1iOTtcA=
+		F+RZaTp4U0gtFvGVafCy8njG+cOI9caxY8P2MdnA5rU=
+		</data>
+		<key>Kexts\AppleALC.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 		</data>
 		<key>Kexts\ApplePS2SmartTouchPad.kext\Contents\Info.plist</key>
 		<data>
@@ -118,11 +126,11 @@
 		</data>
 		<key>Kexts\AsusSMC.kext\Contents\Info.plist</key>
 		<data>
-		I0sCyu/oA2mjBxiwqraxNI2tgGwU6PDVxtsdgJxml9M=
+		lLa2rc5h45TMUgGpIn+FrIWNyPVGw4GfJUaR9wsTbKI=
 		</data>
 		<key>Kexts\AsusSMC.kext\Contents\MacOS\AsusSMC</key>
 		<data>
-		+OgvibnZV/ahHJF5EwkH2oCc97/u04N/mXLlHqnwjko=
+		qv6m0Ohlpw1yIMZ0YcrL8BVCCA3eALSiSlDpBaJMcw0=
 		</data>
 		<key>Kexts\AsusSMC.kext\Contents\_CodeSignature\CodeResources</key>
 		<data>
@@ -130,47 +138,71 @@
 		</data>
 		<key>Kexts\BrcmBluetoothInjector.kext\Contents\Info.plist</key>
 		<data>
-		Kj4+swEYjBu/4hkYRzbQB//tlbYwjGXhaJXFhH1ojnw=
+		dDaTs0Z/0dVRTlauk8lgJcjTW2tAW01HZzhE2/LrWNE=
+		</data>
+		<key>Kexts\BrcmBluetoothInjector.kext\Contents\MacOS\BrcmBluetoothInjector</key>
+		<data>
+		oyLpGe9hrHbCEezZYl0NjBJEJSztl/+bH1mcKztxaZU=
+		</data>
+		<key>Kexts\BrcmBluetoothInjector.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 		</data>
 		<key>Kexts\BrcmFirmwareData.kext\Contents\Info.plist</key>
 		<data>
-		q1ugxTZE5C7EV10aZzDkXUBWnX/P9lJa9/l1XzZQKh4=
+		SvotK9CyUVa4uyMGFAoxb4xFjB9xdNfwfcRnheyqYnA=
 		</data>
 		<key>Kexts\BrcmFirmwareData.kext\Contents\MacOS\BrcmFirmwareData</key>
 		<data>
-		HB8ZlKpwkiyqk68tB1JrHXEh12hX05vKGFvmwi1wAOo=
+		jJbOyk0pufO98pbD/4g3FpKPAmy5RK9As9jqmEt3umE=
+		</data>
+		<key>Kexts\BrcmFirmwareData.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 		</data>
 		<key>Kexts\BrcmPatchRAM2.kext\Contents\Info.plist</key>
 		<data>
-		4lJ7/phnB9sYHT1EIWmS5sM0VXAz+BQUkvZE+g0lA30=
+		GQs2v/rBoRy43XQvK3/TSoEED8pG5RDIe41saGtgOxg=
 		</data>
 		<key>Kexts\BrcmPatchRAM2.kext\Contents\MacOS\BrcmPatchRAM2</key>
 		<data>
-		uJ4kZ6bCyTuurA43OOLbIZsPDq5SAx0YUlEHMVsezxM=
+		zCdu/qN313+sRXz4vHzYe4y6Zzu7lD2/hEy9AX+/Xdo=
+		</data>
+		<key>Kexts\BrcmPatchRAM2.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 		</data>
 		<key>Kexts\BrcmPatchRAM3.kext\Contents\Info.plist</key>
 		<data>
-		5NJLhHXoWwMKnFYU8V3sz1LI7ypOvoP5NjMjjn/MMb4=
+		7FDuaqGSyYBtwp2Q9nVlvZH0YAigzUCCAE4RE8k8PQw=
 		</data>
 		<key>Kexts\BrcmPatchRAM3.kext\Contents\MacOS\BrcmPatchRAM3</key>
 		<data>
-		uD7+P9D5cUdYN7hDyktmSAVBOoGk/LrMNjRgI9Q5Tyc=
+		GhRpd6kqJkeWKqZhb7FzLipUipfp1c95SjYAuGedppk=
+		</data>
+		<key>Kexts\BrcmPatchRAM3.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 		</data>
 		<key>Kexts\HibernationFixup.kext\Contents\Info.plist</key>
 		<data>
-		zUWv2iiV8Jk+/qgnih2v6PFsF9YVTVnDR1lS5D3sb0I=
+		9/mtmqY65DWUO/a/hsSlfcrjP9yeeUugRdqpZcn6Eiw=
 		</data>
 		<key>Kexts\HibernationFixup.kext\Contents\MacOS\HibernationFixup</key>
 		<data>
-		TJFUi9UXZdZxpfHKf7Bf3VzvmbTkNg2jBMo4lQf5mn4=
+		SG4oDuR9sMeux0Fk9+2xDz3EW9U599YtVVzynoQOKrA=
+		</data>
+		<key>Kexts\HibernationFixup.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 		</data>
 		<key>Kexts\Lilu.kext\Contents\Info.plist</key>
 		<data>
-		O4bGJIO6wqmvJBI99Swi7OPoo3EU6ofIPRXXZCs3fyM=
+		OIEGcPw7gpU4ypjYeQuohoqkbeEj9Cb6wLI3SwY3Lrg=
 		</data>
 		<key>Kexts\Lilu.kext\Contents\MacOS\Lilu</key>
 		<data>
-		EksKhEosOMprb7NEZTEMOb72zicmg3jq2Uub2hpzBYA=
+		FDzq+ZHSd1pQIEggXsFfKNN604whZuHIooRgefL0+D8=
 		</data>
 		<key>Kexts\NoTouchID.kext\Contents\Info.plist</key>
 		<data>
@@ -186,35 +218,55 @@
 		</data>
 		<key>Kexts\SMCBatteryManager.kext\Contents\Info.plist</key>
 		<data>
-		l84qPyMThEZgGaKgS5WHlDeVg+h/pmYMA0iL5cRs4rY=
+		3AWuwO5xV71weNyKUWf+AZJnZUx3BqeYKxuzequmF9Q=
 		</data>
 		<key>Kexts\SMCBatteryManager.kext\Contents\MacOS\SMCBatteryManager</key>
 		<data>
-		kDcq6NL1IKt4W8BkYJVobDsSspWiA6v4J3goVkXzSEA=
+		IAX29vPA36XC9ZvSNc9auY0gTHjOMExpIiBFV8WkCUI=
+		</data>
+		<key>Kexts\SMCBatteryManager.kext\Contents\Resources\SSDT-BATC.dsl</key>
+		<data>
+		5mu9V+XG7w3bw6blH2j+h12EcJtz1HcuHBkyafKonks=
+		</data>
+		<key>Kexts\SMCBatteryManager.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		jLv+cExnK2mDcqHQAgf+uHBP1V1CY4dB9sAov4Ht2sg=
 		</data>
 		<key>Kexts\SMCLightSensor.kext\Contents\Info.plist</key>
 		<data>
-		iUWIX/dxMwa1wTwiOW2sxmiPPUYHJzFij2MlfzsqoV4=
+		WVXqWxOLpBqs2DHKs6BsajJv6dHOMInSamyUlzVIxn0=
 		</data>
 		<key>Kexts\SMCLightSensor.kext\Contents\MacOS\SMCLightSensor</key>
 		<data>
-		yBvgF7TaIVY18uk+YQExIivSHeHb8wD2af04zf04HN0=
+		XjRDb2qLQvzGQOCrJnSq8T59r4jilEQpyqbG5jseH6I=
+		</data>
+		<key>Kexts\SMCLightSensor.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\Info.plist</key>
 		<data>
-		yDDZJg30pOSX44Ako4qXftCh0Cfr6g6aM9EnT34Vk6Y=
+		gMyw0+do5fdyfk/TMChbS9qKC9s6LPq/4JjN3VM7vko=
 		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\MacOS\SMCProcessor</key>
 		<data>
-		4/28buE8avBCVjTZnTUNf5uuor+0W5bSKsA/rQ/q1jE=
+		K9jSkWMx5HxmOmTdP+pPXT1gcpF418WRT1+v6ZnvVW4=
+		</data>
+		<key>Kexts\SMCProcessor.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\Info.plist</key>
 		<data>
-		qkJWSv8T2vWRaleoB+K4SbHGveT4oSBHAd2GL/TxbSI=
+		3648ATxDX0IptKUUJpmvHRZuGJSNn5cFw4AyA5o3Wyc=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\MacOS\SMCSuperIO</key>
 		<data>
-		tQDC4O7YaQSUbYhpAjwfPKmCKQ1RIqPX+0fHOc+ZcuI=
+		jV3iKV6T5pM8pXonJJvmpngVLtpaHCKUT7ZXgpMSmtg=
+		</data>
+		<key>Kexts\SMCSuperIO.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 		</data>
 		<key>Kexts\USBPorts.kext\Contents\Info.plist</key>
 		<data>
@@ -222,19 +274,27 @@
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\Info.plist</key>
 		<data>
-		6RxlUjckr+5n+IwiexTzZV0U2CrtIyJamVVTQa3sNTI=
+		URC95jAUYjlnbRHpQ2z+F5vKtNt9RCX85UhBhINApws=
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\MacOS\VirtualSMC</key>
 		<data>
-		ndDqSQngMIz0k2AsSpSc6RtOazHqwDEXxgI+ntxwJmE=
+		ZMUyKR+yz+aURjLKIreGBr60lUDaikXpysymXi+pQlU=
+		</data>
+		<key>Kexts\VirtualSMC.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\Info.plist</key>
 		<data>
-		5kGMQUiNHDNCeknHx648rHrQcMQJJD7crEZJ6yCr37M=
+		XdrlJ2xchD5dK+gknpEqMh7IqcIYLI6FglG/3H2OO5k=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\MacOS\WhateverGreen</key>
 		<data>
-		pDgstVpBs+59Rllpg7ZCq0nNutVtUfZPb0mCcYW1ik4=
+		VnwfXtYgZZAQtyPnpMY8RwUaJ+S5lgUBO1uAcDn9lM4=
+		</data>
+		<key>Kexts\WhateverGreen.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
 		</data>
 		<key>Resources\Font\Font_1x.bin</key>
 		<data>
@@ -474,7 +534,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		d4UgG1+o5F8RHny7zVXGPYH8v6y++K/xr8X7x8w+jKs=
+		aMxtDSWJkMyjUQQopWza+k8Re3Dmi8e7mZRirg9TMuc=
 		</data>
 		<key>sign.command</key>
 		<data>
