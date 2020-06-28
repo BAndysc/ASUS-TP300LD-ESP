@@ -1,6 +1,4 @@
-BSD 3-Clause License
-
-Copyright (c) 2020, Danang Galuh Tegar Prasetyo. 
+Copyright © 2020, Danang Galuh Tegar Prasetyo. 
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
