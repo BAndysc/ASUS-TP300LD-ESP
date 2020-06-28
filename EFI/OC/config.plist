@@ -596,7 +596,7 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 		</array>
-		<key>Delete</key>
+		<key>Block</key>
 		<array/>
 		<key>Emulate</key>
 		<dict>
@@ -738,9 +738,13 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string></string>
+				<string>-lilubetaall vsmcgen=1 -disablegfxfirmware -v</string>
 				<key>prev-lang:kbd</key>
 				<string>en-US:0</string>
+				<key>booter-fileset-kernel</key>
+				<data>AA==</data>
+				<key>booter-fileset-basesystem</key>
+				<data>AA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
