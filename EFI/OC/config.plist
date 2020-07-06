@@ -739,10 +739,6 @@
 				<string>-lilubetaall vsmcgen=1 -disablegfxfirmware -v</string>
 				<key>prev-lang:kbd</key>
 				<string>en-US:0</string>
-				<key>booter-fileset-kernel</key>
-				<data>AA==</data>
-				<key>booter-fileset-basesystem</key>
-				<data>AA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
