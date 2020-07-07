@@ -279,15 +279,15 @@
 				<key>BundlePath</key>
 				<string>Lilu.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>Arbitrary kext and process patching on macOS</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/Lilu</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>20.9.9</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>16.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -295,15 +295,15 @@
 				<key>BundlePath</key>
 				<string>VirtualSMC.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>SMC emulator layer</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VirtualSMC</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>20.9.9</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>16.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -311,15 +311,15 @@
 				<key>BundlePath</key>
 				<string>AsusSMC.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>VirtualSMC plugin: Improved ASUS ATK support</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AsusSMC</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>19.9.9</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>16.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -333,9 +333,9 @@
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCProcessor</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>19.9.9</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>16.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -349,9 +349,9 @@
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCSuperIO</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>19.9.9</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>16.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -365,9 +365,9 @@
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCBatteryManager</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>19.9.9</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>16.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -381,9 +381,9 @@
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCLightSensor</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>19.9.9</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>16.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -391,15 +391,15 @@
 				<key>BundlePath</key>
 				<string>WhateverGreen.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>Lilu plugin providing patches to select GPUs on macOS.</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/WhateverGreen</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>20.9.9</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>16.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -407,15 +407,15 @@
 				<key>BundlePath</key>
 				<string>AppleALC.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>Native macOS HD audio for not officially supported codecs</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AppleALC</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>20.9.9</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>16.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -423,15 +423,15 @@
 				<key>BundlePath</key>
 				<string>NoTouchID.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>Lilu plugin for disabling Touch ID support</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/NoTouchID</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>19.9.9</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>16.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -439,7 +439,7 @@
 				<key>BundlePath</key>
 				<string>ApplePS2SmartTouchPad.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>ELAN, FocalTech and Synaptics PS/2 Touch Pad driver for macOS</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -487,7 +487,7 @@
 				<key>BundlePath</key>
 				<string>USBPorts.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>USB Ports mapping</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -503,15 +503,15 @@
 				<key>BundlePath</key>
 				<string>AirportBrcmFixup.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>Patches required for non-native AirPort Broadcom Wi-Fi cards.</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AirportBrcmFixup</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>19.9.9</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>16.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -525,9 +525,9 @@
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/BrcmFirmwareData</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>19.9.9</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>16.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -541,7 +541,7 @@
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/BrcmPatchRAM2</string>
 				<key>MaxKernel</key>
-				<string>18.7.0</string>
+				<string>18.9.9</string>
 				<key>MinKernel</key>
 				<string>16.0.0</string>
 				<key>PlistPath</key>
@@ -557,7 +557,7 @@
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/BrcmPatchRAM3</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>19.9.9</string>
 				<key>MinKernel</key>
 				<string>19.0.0</string>
 				<key>PlistPath</key>
@@ -573,9 +573,9 @@
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>19.9.9</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>19.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -583,15 +583,15 @@
 				<key>BundlePath</key>
 				<string>HibernationFixup.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>Lilu plugin intended to fix hibernation compatibility issues</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/HibernationFixup</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>19.9.9</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>16.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -704,7 +704,7 @@
 			<key>ScanPolicy</key>
 			<integer>16719619</integer>
 			<key>Vault</key>
-			<string>Secure</string>
+			<string>Optional</string>
 		</dict>
 		<key>Tools</key>
 		<array>
@@ -736,7 +736,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>-lilubetaall vsmcgen=1 -disablegfxfirmware -v</string>
+				<string>-lilubetaall -vsmcbeta vsmcgen=1 -wegbeta -brcmfxbeta</string>
 				<key>prev-lang:kbd</key>
 				<string>en-US:0</string>
 			</dict>
